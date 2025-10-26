@@ -22,7 +22,6 @@
 <a href="https://elydastous.com/">ely.dastous</a>
 
 ###
-###
 
 <h3>Réseaux sociaux</h3>
 <div align="left">
